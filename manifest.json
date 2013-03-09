@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name" : "matome image",
-	"description" : "初めての何か",
+	"name" : "ai-shinozaki",
+	"description" : "新しいタブを開くと篠崎愛にいつでも会える拡張機能です。",
 	"version" : "0.0.1",
 	"chrome_url_overrides" : {
 		"newtab" : "newtab.html"
