@@ -1,0 +1,9 @@
+{
+	"manifest_version": 2,
+	"name" : "matome image",
+	"description" : "初めての何か",
+	"version" : "0.0.1",
+	"chrome_url_overrides" : {
+		"newtab" : "newtab.html"
+	}
+}
